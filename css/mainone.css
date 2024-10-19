@@ -1024,7 +1024,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #7d7d7d;
 }
 .section-intro {
-	max-width: 700px;
+	/* max-width: 700px; */
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
@@ -1517,7 +1517,7 @@ header .logo a {
 .about-content {
 	position: relative;
 	text-align: left;
-	max-width: 850px;
+	/* max-width: 850px; */
 	margin-bottom: 3.6rem;
 }
 .about-content h3 {
@@ -2104,7 +2104,6 @@ header .logo a {
 }
 .services-list {
 	margin-top: 1.2rem;
-	text-align: justify;
 }
 .services-list .service {
 	margin-bottom: 1.2rem;
