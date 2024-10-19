@@ -1635,7 +1635,7 @@ header .logo a {
 }
 
 #resume .resume-timeline {
-	max-width: 980px;
+	/* max-width: 980px; */
 }
 #resume .timeline-wrap {
 	position: relative;
@@ -2225,7 +2225,6 @@ header .logo a {
  */
 #contact {
 	background: #151515;
-	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
 #contact .section-intro h1 {
